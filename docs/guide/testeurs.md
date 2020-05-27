@@ -1,5 +1,6 @@
 # à l'intention des testeurs
 
+
 Hello ! Merci BEAUCOUP d'avoir accepté de jouer le jeu en éprouvant un peu la plateforme pour voir comment tout ça peut tourner, si c'est simple ou si on se retrouve face à des choses un peu incompréhensibles...
 
 Mon objectif à ce stade : voir si tout fonctionne bien quand le serveur reçoit un peu de charge (quand il est utilisé normalement), avoir vos retours concernant la doc qui pour l’instant se résume à cette page, notamment concernant la clarté des explications, mais également pouvoir avoir vos réactions (c’est trop cool, c’est compliqué quand j’essaie de faire ci ou ça, je suis un peu perdu à tel moment, j’étais paumé mais en fait après quelques minutes ça se passe bien, etc…).
@@ -19,7 +20,7 @@ Vous pouvez facilement modifier ce paramètre en allant dans "customize" et en c
 Tout ce que vous publierez en "Public" sera visible dans le **reader** : https://write.alloe.fr/read
 Votre blog sera également accessible à l’adresse [https://write.alloe.fr/monblog][2] (sauf s’il est privé bien sûr), et il aura l’identité @monblog@write.alloe.fr
 
-:::important
+:::warning
 L’identité @monblog@write.alloe.fr sera importante lorsque vous voudrez l’utiliser sur alloé, Social !
 :::
 
@@ -38,6 +39,8 @@ L'avantage, c'est que vous pouvez avoir autant de blogs que vous voulez, mais qu
 Vous pouvez choisir quels blogs seront visibles sur Social. Pour ce faire, une fois sur https://social.alloe.fr, vous devez chercher votre blog (barre de recherche \> @monblog@write.alloe.fr). That's it ! À partir de ce moment (et même pour les blogs privés ou non listés), les gens pourront voir que vous avez posté quelque chose !
 Bien sûr, si c’est privé, ils ne pourront rien lire… Juste voir que vous avez posté quelque chose.
 :::
+
+Petit bonus : vous pouvez également choisir de ne pas faire apparaître tous les textes de votre blog sur Social si vous n’en avez pas envie. Il suffit alors de ne pas vous abonner à votre blog. Si vous voulez toutefois faire apparaître **certains** textes, il vous suffit d’écrire quelque part dans votre texte votre pseudo sur Social. Ce faisant, votre texte mentionne un membre de @social.alloe.fr, donc il sera visible sur le réseau social.
 
 [1]:	https://write.alloe.fr
 [2]:	https://write.alloe.fr/monblog

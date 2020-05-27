@@ -5,7 +5,7 @@
   "license": "CC BY 4.0",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "npm install && vuepress build docs"
   },
   "dependencies": {
     "markdown-it": "^11.0.0",

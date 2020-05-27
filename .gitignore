@@ -25,3 +25,4 @@ TODOs.md
 .Ulysses-Group.plist
 
 # dist
+/docs/.vuepress/dist

@@ -1,0 +1,14 @@
+{
+  "homepage": "https://write.alloe.fr",
+  "Author": "Mathieu NICOLAS",
+  "repository": "github:mathieunicolas/alloe",
+  "license": "CC BY 4.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "markdown-it": "^11.0.0",
+    "markdown-it-katex": "^2.0.3"
+  }
+}

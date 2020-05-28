@@ -1,51 +1,50 @@
-# à l'intention des testeurs
-
-
+# Guide pratique
+## à l’intention des testeurs
 Hello ! Merci BEAUCOUP d'avoir accepté de jouer le jeu en éprouvant un peu la plateforme pour voir comment tout ça peut tourner, si c'est simple ou si on se retrouve face à des choses un peu incompréhensibles...
 
-Mon objectif à ce stade : voir si tout fonctionne bien quand le serveur reçoit un peu de charge (quand il est utilisé normalement), avoir vos retours concernant la doc qui pour l’instant se résume à cette page, notamment concernant la clarté des explications, mais également pouvoir avoir vos réactions (c’est trop cool, c’est compliqué quand j’essaie de faire ci ou ça, je suis un peu perdu à tel moment, j’étais paumé mais en fait après quelques minutes ça se passe bien, etc…).
+Mon objectif à ce stade : voir si tout fonctionne bien quand le serveur reçoit un peu de charge (quand il est utilisé normalement), avoir vos retours concernant la doc qui pour l’instant se résume à cette page, notamment concernant la clarté des explications, mais également pouvoir avoir vos réactions (c’est trop cool, c’est compliqué quand j’essaie de faire ci ou ça, je suis un peu perdu à tel moment, j’étais paumé mais en fait après quelques minutes ça se passe bien, etc…)._ 
+## étape 1 : inscription sur Write
+Rendez-vous sur [alloé, Write][1] et créez votre compte.
 
-La plateforme alloé (pour _allez, on écrit_) est constituée de deux éléments. Pour l'instant, ils s'appellent **alloé, Write !** et **alloé, Social !**.
-Si vous voulez l’utiliser pleinement, vous aurez un compte sur Social : @pseudo@social.alloe.fr, avec lequel vous pourrez envoyer des petits messages publics ou adressés directement à d’autres personnes, ainsi qu’un ou plusieurs blogs sur Write : @blog1@write.alloe.fr, @blog2@write.alloe.fr, etc…
+Votre premier blog porte le nom de votre pseudo, mais vous pouvez le renommer à partir de cette adresse : [https://write.alloe.fr/me/c/][2]
 
-## alloé, Write !
-Vous la trouverez à l'adresse [https://write.alloe.fr][1]
+Vous pourrez également ajouter d’autres blogs (jusqu’à 10 par compte), modifier quelques paramètres simples dont la **visibilité de votre blog** :
+- public : votre blog est visible dans le [Reader][3]
+- unlisted : il n’est pas listé, seuls ceux qui ont le lien peuvent le consulter
+- private : personne à part vous ne peut le consulter
+- password-protected : vous définissez un accès protégé par mot de passe
 
-Créer un compte est gratuit, l'interface est minimaliste et vous pouvez créer jusqu'à 10 blogs. La visibilité par défaut des blogs est "Public", ce qui signifie que ce que vous publierez sera visible dans le **reader**, c'est l'espace où on peut lire les publications des autres auteurs de la plateforme.
+## étape 2 : inscription sur Social
+Rendez-vous sur [alloé, Social][4] et créez un compte.
+Votre identifiant sera @pseudo@social.alloe.fr, et vous pouvez utiliser **alloé, Social** comme vous utiliseriez Twitter, avec quelques nuances :
 
-:::tip
-Vous pouvez facilement modifier ce paramètre en allant dans "customize" et en changeant le paramètre intitilé Publicity (Unlisted, Private, Password-protected ou Public). Une fois votre compte créé vous pourrez commencer à publier !
-:::
-
-Tout ce que vous publierez en "Public" sera visible dans le **reader** : https://write.alloe.fr/read
-Votre blog sera également accessible à l’adresse [https://write.alloe.fr/monblog][2] (sauf s’il est privé bien sûr), et il aura l’identité @monblog@write.alloe.fr
-
-:::warning
-L’identité @monblog@write.alloe.fr sera importante lorsque vous voudrez l’utiliser sur alloé, Social !
-:::
-
-## alloé, Social !
-[https://social.alloe.fr][3]
-
-Il faut voir cet élément comme un twitter local, à l'échelle du projet alloé. Si vous vous inscrivez sur **alloé, Social !**, alors vous allez pouvoir discuter avec les autres auteurs de la plateforme, leur dire à quel point vous avez adoré telle publication, mais également leur demander comment ils ont bien pu trouver l'inspiration pour cette autre qui était si incroyable !
-
-Pour information, le **fil public local** va afficher uniquement les messages des personnes inscrites sur alloé, Social, et **fil public global** qui affichera également les messages de tous les comptes auxquels vous êtes abonnés, ainsi que ceux auxquels les autres utilisateurs sont abonnés (donc les entrées de blogs !).
-
-:::warning
-Ce sont deux plateformes distinctes, qui nécessiteront deux inscriptions distinctes : vous pouvez écrire sans aller sur la plateforme sociale, et vous pouvez aller sur la plateforme sociale sans écrire.
-:::
-
-L'avantage, c'est que vous pouvez avoir autant de blogs que vous voulez, mais que vous n'aurez besoin que d'un seul compte sur Write (à partir duquel vous pourrez écrire sur n'importe lequel de vos blogs) et un seul compte sur Social (à partir duquel vous pourrez interagir avec les autres).
+- fil public local : vous verrez apparaître les toots (c’est comme ça que ça s’appelle sur mastodon !) postés par les autres comptes @pseudo@social.alloe.fr, ainsi que les toots relayés par ces comptes (on dit booster, c’est comme un retweet)
+- fil public global : vous verrez le fil local + les toots issus des autres personnes (ou blogs) suivis par les membres d’alloé Social.
 
 :::tip
-Vous pouvez choisir quels blogs seront visibles sur Social. Pour ce faire, une fois sur https://social.alloe.fr, vous devez chercher votre blog (barre de recherche \> @monblog@write.alloe.fr). That's it ! À partir de ce moment (et même pour les blogs privés ou non listés), les gens pourront voir que vous avez posté quelque chose !
-Bien sûr, si c’est privé, ils ne pourront rien lire… Juste voir que vous avez posté quelque chose.
+Petit point technique : en vous inscrivant sur allé, Social, vous vous inscrivez sur une **instance mastodon**. Mastodon est un réseau social fédéré, ce qui signifie qu’il est constitué par plusieurs instances qui sont interconnectées et qui peuvent interagir entre elles.
+
+Imaginez que vous puissiez commenter une vidéo youtube depuis facebook, ou que vous puissiez partager sur twitter une publication instagram ? Et bien, c’est à peu près ce que l’on peut faire grâce à mastodon, et j’explique un peu mieux les choses **ici** (page à créer)
 :::
 
-Petit bonus : vous pouvez également choisir de ne pas faire apparaître tous les textes de votre blog sur Social si vous n’en avez pas envie. Il suffit alors de ne pas vous abonner à votre blog. Si vous voulez toutefois faire apparaître **certains** textes, il vous suffit d’écrire quelque part dans votre texte votre pseudo sur Social. Ce faisant, votre texte mentionne un membre de @social.alloe.fr, donc il sera visible sur le réseau social.
+## étape 3 : comment parler de votre blog avec les autres ?
+Vous pouvez, si vous le voulez, faire en sorte que **chaque nouveau texte** publié sur votre blog apparaisse dans le fil global sur **alloé Social**.
+Rien de plus simple : votre blog possède une identité compatible avec mastodon : @monblog@write.alloe.fr
+![image 1][5]
 
-_(bon, après relecture de tout ça, il va falloir donner un bon coup de balais pour rendre les explications claires !)_
+Il suffira alors de chercher votre blog, et de vous y abonner. C’est fait ! Tous les membres de l’instance seront informés de chaque nouveau texte publié sur votre blog !
+
+## étape 4 : utilisation de la plateforme alloé
+Tout est prêt ! Vous pouvez désormais écrire et publier sur *alloé, Write*, poster des toots sur *alloé, Social*, lire les textes des autres ou partir à la découverte du **fediverse** (lien à ajouter) (c’est l’ensemble des plateformes web fédérées, et il y en a plein !).
+
+## Aller plus loin
+- [écrire sur alloé, Write][6]
+- Vous pouvez directement mentionner une personne possédant un compte mastodon dans l’un de vos textes, il suffit d’y écrire son _identifiant complet_, par exemple @mathieunicolas@mamot.fr (qui est mon compte mastodon principal, que j’ai créé sur l’instance [https://mamot.fr][7]
 
 [1]:	https://write.alloe.fr
-[2]:	https://write.alloe.fr/monblog
-[3]:	https://social.alloe.fr
+[2]:	https://write.alloe.fr/me/c/
+[3]:	https://write.alloe.fr/read
+[4]:	https://social.alloe.fr
+[5]:	./img1.png
+[6]:	./writing.html
+[7]:	https://mamot.fr

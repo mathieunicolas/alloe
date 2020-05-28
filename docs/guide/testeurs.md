@@ -29,6 +29,8 @@ L’identité @monblog@write.alloe.fr sera importante lorsque vous voudrez l’u
 
 Il faut voir cet élément comme un twitter local, à l'échelle du projet alloé. Si vous vous inscrivez sur **alloé, Social !**, alors vous allez pouvoir discuter avec les autres auteurs de la plateforme, leur dire à quel point vous avez adoré telle publication, mais également leur demander comment ils ont bien pu trouver l'inspiration pour cette autre qui était si incroyable !
 
+Pour information, le **fil public local** va afficher uniquement les messages des personnes inscrites sur alloé, Social, et **fil public global** qui affichera également les messages de tous les comptes auxquels vous êtes abonnés, ainsi que ceux auxquels les autres utilisateurs sont abonnés (donc les entrées de blogs !).
+
 :::warning
 Ce sont deux plateformes distinctes, qui nécessiteront deux inscriptions distinctes : vous pouvez écrire sans aller sur la plateforme sociale, et vous pouvez aller sur la plateforme sociale sans écrire.
 :::
@@ -41,6 +43,8 @@ Bien sûr, si c’est privé, ils ne pourront rien lire… Juste voir que vous a
 :::
 
 Petit bonus : vous pouvez également choisir de ne pas faire apparaître tous les textes de votre blog sur Social si vous n’en avez pas envie. Il suffit alors de ne pas vous abonner à votre blog. Si vous voulez toutefois faire apparaître **certains** textes, il vous suffit d’écrire quelque part dans votre texte votre pseudo sur Social. Ce faisant, votre texte mentionne un membre de @social.alloe.fr, donc il sera visible sur le réseau social.
+
+_(bon, après relecture de tout ça, il va falloir donner un bon coup de balais pour rendre les explications claires !)_
 
 [1]:	https://write.alloe.fr
 [2]:	https://write.alloe.fr/monblog

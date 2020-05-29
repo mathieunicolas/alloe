@@ -18,7 +18,9 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'alloé', link: 'https://alloe.fr', target: '_self' },
+            { text: 'blog', link: 'https://blog.alloe.fr', target: '_self' },
+            { text: 'Write', link: 'https://write.alloe.fr'},
+            { text: 'Social', link: 'https://social.alloe.fr'}
         ],
         sidebar: [
             '/',
@@ -40,7 +42,6 @@ module.exports = {
                 ]
             }*/
         ],
-        displayAllHeaders: true
     },
     markdown: {
         // options for markdown-it-anchor

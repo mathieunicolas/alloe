@@ -7,13 +7,17 @@ Les réseaux sociaux fédérés, c’est une autre façon d’aborder les choses
 ## étape 1 : inscription sur Write
 Rendez-vous sur [alloé, Write][1] et créez votre compte.
 
-Votre premier blog porte le nom de votre pseudo, mais vous pouvez le renommer à partir de cette adresse : [https://write.alloe.fr/me/c/][2]
-
-Vous pourrez également ajouter d’autres blogs (jusqu’à 10 par compte), modifier quelques paramètres simples dont la **visibilité de votre blog** :
+Votre premier blog porte le nom de votre pseudo, mais vous pouvez le renommer à partir de cette adresse : [https://write.alloe.fr/me/c/][2], mais aussi modifier quelques paramètres simples dont la **visibilité de votre blog** :
 - public : votre blog est visible dans le [Reader][3]
 - unlisted : il n’est pas listé, seuls ceux qui ont le lien peuvent le consulter
 - private : personne à part vous ne peut le consulter
 - password-protected : vous définissez un accès protégé par mot de passe
+
+Vous pourrez également ajouter d’autres blogs (jusqu’à 10 par compte), et les paramétrer comme vous voudrez.
+
+:::tip
+C’est parfait, vous pouvez désormais écrire ! Maintenant, voyons comment interagir avec les autres membres de la plateforme.
+::: 
 
 ## étape 2 : inscription sur Social
 Rendez-vous sur [alloé, Social][4] et créez un compte.
@@ -23,7 +27,7 @@ Votre identifiant sera @pseudo@social.alloe.fr, et vous pouvez utiliser **alloé
 - fil public global : vous verrez le fil local + les toots issus des autres personnes (ou blogs) suivis par les membres d’alloé Social.
 
 :::tip
-Petit point technique : en vous inscrivant sur allé, Social, vous vous inscrivez sur une **instance mastodon**. Mastodon est un réseau social fédéré, ce qui signifie qu’il est constitué par plusieurs instances qui sont interconnectées et qui peuvent interagir entre elles.
+Petit point technique : en vous inscrivant sur alloé, Social, vous vous inscrivez sur une **instance mastodon**. Mastodon est un réseau social fédéré, ce qui signifie qu’il est constitué par plusieurs instances qui sont interconnectées et qui peuvent interagir entre elles. Par conséquent, c’est décentralisé : il existe des milliers d’instances. Bye bye les GAFAM !
 
 Imaginez que vous puissiez commenter une vidéo youtube depuis facebook, ou que vous puissiez partager sur twitter une publication instagram ? Et bien, c’est à peu près ce que l’on peut faire grâce à mastodon, et j’explique un peu mieux les choses **ici** (page à créer)
 :::

@@ -2,7 +2,7 @@
 ## à l’intention des testeurs
 Hello ! Merci BEAUCOUP d'avoir accepté de jouer le jeu en éprouvant un peu la plateforme pour voir comment tout ça peut tourner, si c'est simple ou si on se retrouve face à des choses un peu incompréhensibles...
 
-Mon objectif à ce stade : voir si tout fonctionne bien quand le serveur reçoit un peu de charge (quand il est utilisé normalement), avoir vos retours concernant la doc qui pour l’instant se résume à cette page, notamment concernant la clarté des explications, mais également pouvoir avoir vos réactions (c’est trop cool, c’est compliqué quand j’essaie de faire ci ou ça, je suis un peu perdu à tel moment, j’étais paumé mais en fait après quelques minutes ça se passe bien, etc…)._ 
+Mon objectif à ce stade : voir si tout fonctionne bien quand le serveur reçoit un peu de charge (quand il est utilisé normalement), avoir vos retours concernant la doc qui pour l’instant se résume à cette page, notamment concernant la clarté des explications, mais également pouvoir avoir vos réactions (c’est trop cool, c’est compliqué quand j’essaie de faire ci ou ça, je suis un peu perdu à tel moment, j’étais paumé mais en fait après quelques minutes ça se passe bien, etc…).\_ 
 ## étape 1 : inscription sur Write
 Rendez-vous sur [alloé, Write][1] et créez votre compte.
 
@@ -30,7 +30,7 @@ Imaginez que vous puissiez commenter une vidéo youtube depuis facebook, ou que 
 ## étape 3 : comment parler de votre blog avec les autres ?
 Vous pouvez, si vous le voulez, faire en sorte que **chaque nouveau texte** publié sur votre blog apparaisse dans le fil global sur **alloé Social**.
 Rien de plus simple : votre blog possède une identité compatible avec mastodon : @monblog@write.alloe.fr
-![image 1][5]
+![image 1][image-1]
 
 Il suffira alors de chercher votre blog, et de vous y abonner. C’est fait ! Tous les membres de l’instance seront informés de chaque nouveau texte publié sur votre blog !
 
@@ -38,13 +38,14 @@ Il suffira alors de chercher votre blog, et de vous y abonner. C’est fait ! To
 Tout est prêt ! Vous pouvez désormais écrire et publier sur *alloé, Write*, poster des toots sur *alloé, Social*, lire les textes des autres ou partir à la découverte du **fediverse** (lien à ajouter) (c’est l’ensemble des plateformes web fédérées, et il y en a plein !).
 
 ## Aller plus loin
-- [écrire sur alloé, Write][6]
-- Vous pouvez directement mentionner une personne possédant un compte mastodon dans l’un de vos textes, il suffit d’y écrire son _identifiant complet_, par exemple @mathieunicolas@mamot.fr (qui est mon compte mastodon principal, que j’ai créé sur l’instance [https://mamot.fr][7]
+- [écrire sur alloé, Write][5]
+- Vous pouvez directement mentionner une personne possédant un compte mastodon dans l’un de vos textes, il suffit d’y écrire son _identifiant complet_, par exemple @mathieunicolas@mamot.fr (qui est mon compte mastodon principal, que j’ai créé sur l’instance [https://mamot.fr][6]
 
 [1]:	https://write.alloe.fr
 [2]:	https://write.alloe.fr/me/c/
 [3]:	https://write.alloe.fr/read
 [4]:	https://social.alloe.fr
-[5]:	./img1.png
-[6]:	./writing.html
-[7]:	https://mamot.fr
+[5]:	./writing.html
+[6]:	https://mamot.fr
+
+[image-1]:	./img1.png
